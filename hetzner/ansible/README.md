@@ -1,6 +1,6 @@
 
 ```
-ansible-playbook -i hosts tasks.yml 
+ansible-playbook -i hosts tasks.yml
 ```
 
 
